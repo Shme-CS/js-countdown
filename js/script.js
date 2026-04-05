@@ -415,7 +415,7 @@ function setVacationPreset() {
 }
 
 /**
- * Set Custom preset (7 days from now)
+ * Set Custom preset (7 days from today)
  */
 function setCustomPreset() {
     const date = new Date();
