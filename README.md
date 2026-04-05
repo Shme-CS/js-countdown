@@ -222,8 +222,8 @@ SOFTWARE.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Shme--CS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shme-CS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shme-cs)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shme.cs@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shmelis-kassa-28058a305)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:project1111mail@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shme-cs.github.io)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shme_cs)
 
@@ -232,8 +232,8 @@ SOFTWARE.
 ### 🌐 Find Me Online
 
 - **GitHub:** [@Shme-CS](https://github.com/Shme-CS)
-- **LinkedIn:** [linkedin.com/in/shme-cs](https://www.linkedin.com/in/shme-cs)
-- **Email:** shme.cs@example.com
+- **LinkedIn:** [Shmelis Kassa](https://www.linkedin.com/in/shmelis-kassa-28058a305)
+- **Email:** project1111mail@gmail.com
 - **Portfolio:** [shme-cs.github.io](https://shme-cs.github.io)
 - **Twitter:** [@shme_cs](https://twitter.com/shme_cs)
 
