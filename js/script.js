@@ -6,7 +6,7 @@
  */
 
 // ===================================
-// Global State Management
+// Global State Management - Modular Architecture
 // ===================================
 let countdowns = [];
 let updateInterval = null;
