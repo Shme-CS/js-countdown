@@ -45,7 +45,7 @@ This countdown timer application demonstrates strong frontend engineering fundam
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/js-countdown.git
+git clone https://github.com/Shme-CS/js-countdown.git
 cd js-countdown
 ```
 
@@ -192,7 +192,7 @@ This project is licensed under the MIT License - see below for details:
 ```
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 [Shmelis Solomon]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -215,7 +215,7 @@ SOFTWARE.
 
 ## 👨‍💻 Author
 
-**Shme-CS** - Frontend Engineer & Web Developer
+**Shmelis Solomon** - Frontend Engineer & Web Developer
 
 ### 📫 Contact Information
 
@@ -224,8 +224,6 @@ SOFTWARE.
 [![GitHub](https://img.shields.io/badge/GitHub-Shme--CS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shme-CS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shmelis-kassa-28058a305?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:project1111mail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shme-cs.github.io)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shme_cs)
 
 </div>
 
@@ -234,8 +232,6 @@ SOFTWARE.
 - **GitHub:** [@Shme-CS](https://github.com/Shme-CS)
 - **LinkedIn:** [Shmelis Kassa](https://www.linkedin.com/in/shmelis-kassa-28058a305?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **Email:** project1111mail@gmail.com
-- **Portfolio:** [shme-cs.github.io](https://shme-cs.github.io)
-- **Twitter:** [@shme_cs](https://twitter.com/shme_cs)
 
 ### 💬 Let's Connect!
 
