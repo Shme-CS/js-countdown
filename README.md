@@ -215,14 +215,45 @@ SOFTWARE.
 
 ## 👨‍💻 Author
 
-Built with ❤️ by a Frontend Engineer
+**Shme-CS** - Frontend Engineer & Web Developer
+
+### 📫 Contact Information
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Shme--CS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shme-CS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shme-cs)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shme.cs@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shme-cs.github.io)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shme_cs)
+
+</div>
+
+### 🌐 Find Me Online
+
+- **GitHub:** [@Shme-CS](https://github.com/Shme-CS)
+- **LinkedIn:** [linkedin.com/in/shme-cs](https://www.linkedin.com/in/shme-cs)
+- **Email:** shme.cs@example.com
+- **Portfolio:** [shme-cs.github.io](https://shme-cs.github.io)
+- **Twitter:** [@shme_cs](https://twitter.com/shme_cs)
+
+### 💬 Let's Connect!
+
+I'm always open to discussing web development, JavaScript, or potential collaboration opportunities. Feel free to reach out through any of the platforms above!
 
 ## 🙏 Acknowledgments
 
 - Inspired by modern web design principles
 - Built as a portfolio demonstration project
 - Thanks to the JavaScript community for best practices
+- Special thanks to all contributors and supporters
 
 ---
 
+<div align="center">
+
 **⭐ If you found this project helpful, please consider giving it a star!**
+
+Made with ❤️ by [Shme-CS](https://github.com/Shme-CS)
+
+</div>
