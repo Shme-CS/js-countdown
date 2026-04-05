@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Professional countdown timer application with multiple events and dark mode">
+    <meta name="author" content="Frontend Engineer">
+    <meta name="keywords" content="countdown, timer, events, javascript, web app">
+    <title>Countdown Timer - Track Your Important Events</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="app-header">
+            <h1>⏰ Countdown Timer</h1>
+            <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                <span class="theme-icon">🌙</span>
+            </button>
+        </header>
+
+        <main class="app-main">
+            <!-- Event Creation Form -->
+            <section class="event-form-section">
+                <h2>Create New Countdown</h2>
+                <form id="countdownForm" class="countdown-form">
+                    <div class="form-group">
+                        <label for="eventTitle">Event Title</label>
+                        <input 
+                            type="text" 
+                            id="eventTitle" 
+                            placeholder="e.g., My Birthday" 
+                            required
+                            maxlength="50"
+                        >
+                    </div>
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="eventDate">Date</label>
+                            <input type="date" id="eventDate" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="eventTime">Time</label>
+                            <input type="time" id="eventTime" value="00:00" required>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">
+                        <span>➕</span> Add Countdown
+                    </button>
+                </form>
+
+                <!-- Preset Buttons -->
+                <div class="preset-buttons">
+                    <h3>Quick Presets</h3>
+                    <div class="preset-grid">
+                        <button class="btn btn-preset" data-preset="newyear">🎉 New Year</button>
+                        <button class="btn btn-preset" data-preset="birthday">🎂 Birthday</button>
+                        <button class="btn btn-preset" data-preset="vacation">🏖️ Vacation</button>
+                        <button class="btn btn-preset" data-preset="custom">✨ Custom</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Countdown Events Display -->
+            <section class="events-section">
+                <h2>Active Countdowns</h2>
+                <div id="countdownList" class="countdown-list">
+                    <!-- Countdown cards will be dynamically inserted here -->
+                </div>
+                <div id="emptyState" class="empty-state">
+                    <p>📅 No countdowns yet. Create your first one above!</p>
+                </div>
+            </section>
+        </main>
+
+        <footer class="app-footer">
+            <p>Built with ❤️ using Vanilla JavaScript</p>
+        </footer>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
