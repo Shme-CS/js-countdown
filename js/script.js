@@ -186,6 +186,7 @@ function resetCountdown(id) {
 // ===================================
 /**
  * Calculate remaining time until target date
+ * Uses precise time calculation with milliseconds
  * @param {string} targetDateISO - Target date in ISO format
  * @returns {Object} Object containing days, hours, minutes, seconds, and total milliseconds
  */
@@ -311,7 +312,7 @@ function renderCountdown(countdown) {
 }
 
 /**
- * Update all countdown displays
+ * Update all countdown displays dynamically
  * Called every second by the interval
  */
 function updateCountdowns() {
@@ -344,6 +345,7 @@ function updateCountdowns() {
 
 /**
  * Start the interval to update countdowns every second
+ * Uses setInterval for real-time updates
  */
 function startUpdateInterval() {
     if (updateInterval) {
