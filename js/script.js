@@ -56,7 +56,7 @@ function initializeApp() {
 }
 
 /**
- * Cache frequently accessed DOM elements
+ * Cache frequently accessed DOM elements for performance
  */
 function cacheDOMElements() {
     DOM.form = document.getElementById('countdownForm');
