@@ -277,6 +277,7 @@ body {
     transition: all var(--transition-speed);
     border: 2px solid transparent;
     animation: slideIn 0.4s ease-out;
+    /* Professional card design */
 }
 
 @keyframes slideIn {
@@ -402,7 +403,7 @@ body {
 }
 
 /* ===================================
-   Responsive Design
+   Responsive Design - Mobile First
    =================================== */
 @media (max-width: 768px) {
     .app-header h1 {
