@@ -232,6 +232,11 @@ SOFTWARE.
 - **GitHub:** [@Shme-CS](https://github.com/Shme-CS)
 - **LinkedIn:** [Shmelis Kassa](https://www.linkedin.com/in/shmelis-kassa-28058a305?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **Email:** project1111mail@gmail.com
+<<<<<<< HEAD
+=======
+- **Portfolio:** [Shme-CS.github.io](https://Shme-CS.github.io)
+- **Twitter:** [@shme_cs](https://twitter.com/shme_cs)
+>>>>>>> c00c89034bc0bfe399d54b05fb22f553af2bdb17
 
 ### 💬 Let's Connect!
 
