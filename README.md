@@ -160,7 +160,7 @@ js-countdown/
 
 ## 📸 Screenshots
 
-*Add screenshots here after deployment*
+*Screenshots will be added in the assets/images folder*
 
 ## 🔮 Future Improvements
 
