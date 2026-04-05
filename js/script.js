@@ -428,7 +428,7 @@ function setCustomPreset() {
 // LocalStorage Management
 // ===================================
 /**
- * Save countdowns to localStorage
+ * Save countdowns to localStorage for persistence
  */
 function saveToLocalStorage() {
     try {
