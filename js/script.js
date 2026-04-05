@@ -383,7 +383,7 @@ function handlePresetClick(e) {
 }
 
 /**
- * Set New Year preset
+ * Set New Year preset countdown
  */
 function setNewYearPreset() {
     const nextYear = new Date().getFullYear() + 1;
@@ -393,7 +393,7 @@ function setNewYearPreset() {
 }
 
 /**
- * Set Birthday preset (30 days from now)
+ * Set Birthday preset (30 days from today)
  */
 function setBirthdayPreset() {
     const date = new Date();
@@ -404,7 +404,7 @@ function setBirthdayPreset() {
 }
 
 /**
- * Set Vacation preset (60 days from now)
+ * Set Vacation preset (60 days from today)
  */
 function setVacationPreset() {
     const date = new Date();
