@@ -119,7 +119,7 @@ function handleFormSubmit(e) {
 }
 
 /**
- * Create a new countdown event
+ * Create a new countdown event and add to state
  * @param {string} title - Event title
  * @param {string} date - Event date (YYYY-MM-DD)
  * @param {string} time - Event time (HH:MM)
@@ -155,7 +155,7 @@ function generateUniqueId() {
 }
 
 /**
- * Delete a countdown event
+ * Delete a countdown event with confirmation
  * @param {string} id - Countdown ID to delete
  */
 function deleteCountdown(id) {
@@ -169,7 +169,7 @@ function deleteCountdown(id) {
 }
 
 /**
- * Reset a countdown event to its original state
+ * Reset a completed countdown event to active state
  * @param {string} id - Countdown ID to reset
  */
 function resetCountdown(id) {
@@ -224,6 +224,7 @@ function calculateRemainingTime(targetDateISO) {
 // ===================================
 /**
  * Render all countdown events to the DOM
+ * Supports multiple simultaneous countdowns
  */
 function renderAllCountdowns() {
     // Clear existing countdowns
