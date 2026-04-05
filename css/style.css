@@ -290,6 +290,7 @@ body {
         transform: translateY(0);
     }
 }
+/* Smooth animations for better UX */
 
 .countdown-card:hover {
     transform: translateY(-4px);
@@ -407,6 +408,7 @@ body {
    Responsive Design - Mobile First
    =================================== */
 @media (max-width: 768px) {
+    /* Mobile responsive adjustments */
     .app-header h1 {
         font-size: 1.75rem;
     }
