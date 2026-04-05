@@ -256,7 +256,7 @@ function renderCountdown(countdown) {
     const timeRemaining = calculateRemainingTime(countdown.targetDate);
     const isCompleted = timeRemaining.total <= 0;
     
-    // Mark as completed if time is up
+    // Mark as completed if time is up - automatic detection
     if (isCompleted && !countdown.completed) {
         countdown.completed = true;
         saveToLocalStorage();
