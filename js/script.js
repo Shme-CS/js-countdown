@@ -359,7 +359,7 @@ function startUpdateInterval() {
 // Preset Handlers
 // ===================================
 /**
- * Handle preset button clicks
+ * Handle preset button clicks for quick countdown creation
  * @param {Event} e - Click event
  */
 function handlePresetClick(e) {
