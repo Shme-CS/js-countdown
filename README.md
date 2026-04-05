@@ -192,7 +192,7 @@ This project is licensed under the MIT License - see below for details:
 ```
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 [Shmelis Solomon]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -234,7 +234,7 @@ SOFTWARE.
 - **GitHub:** [@Shme-CS](https://github.com/Shme-CS)
 - **LinkedIn:** [Shmelis Kassa](https://www.linkedin.com/in/shmelis-kassa-28058a305?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **Email:** project1111mail@gmail.com
-- **Portfolio:** [shme-cs.github.io](https://shme-cs.github.io)
+- **Portfolio:** [Shme-CS.github.io](https://Shme-CS.github.io)
 - **Twitter:** [@shme_cs](https://twitter.com/shme_cs)
 
 ### 💬 Let's Connect!
