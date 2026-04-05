@@ -439,7 +439,7 @@ function saveToLocalStorage() {
 }
 
 /**
- * Load countdowns from localStorage
+ * Load saved countdowns from localStorage on startup
  */
 function loadFromLocalStorage() {
     try {
@@ -466,7 +466,7 @@ function initializeTheme() {
 }
 
 /**
- * Toggle between light and dark theme
+ * Toggle between light and dark theme with persistence
  */
 function toggleTheme() {
     const currentTheme = document.documentElement.getAttribute('data-theme');
